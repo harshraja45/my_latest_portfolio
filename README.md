@@ -1,45 +1,101 @@
-# Harsh Raja | Portfolio
+# 🚀 My Latest Portfolio
 
-Welcome to my personal portfolio! This repository showcases my projects, skills, and experience as a Computer Science Engineer.
-
----
-
-## 🌐 Live Demo
-Check out my live portfolio here: [Portfolio Live](https://harshraja45.github.io/portfolio/)
+🌐 **Live Demo:** https://my-latest-portfolio-topaz.vercel.app
+📂 **GitHub Repo:** https://github.com/harshraja45/my_latest_portfolio
 
 ---
 
-## 💻 About Me
-Hi! I'm **Harsh Raja**, a passionate software developer skilled in building web applications using modern technologies like React, Tailwind CSS, and Node.js. I enjoy creating interactive and visually appealing projects that solve real-world problems.
+## 📌 Overview
+
+This is my **personal portfolio website** built to showcase my skills, projects, and experience as a **Full Stack Developer**.
+It reflects my journey, technical expertise, and ability to build modern, responsive, and scalable web applications.
 
 ---
 
-## 🛠 Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, MongoDB
-- **Other Tools:** Git & GitHub, VS Code, Postman
-- **Languages:** C++, Java, Python, TypeScript
+## ✨ Features
+
+* 🎨 Modern and clean UI design
+* 📱 Fully responsive (mobile + desktop)
+* 🎬 Smooth animations using Framer Motion
+* 🧠 Skills and tech stack section
+* 💼 Projects showcase with live demos
+* 📄 About & Contact pages
+* 🔙 Navigation with back button support
+* 🔔 Interactive notifications
 
 ---
 
-## 📂 Projects
-Some of the projects showcased in this portfolio include:
+## 🛠️ Tech Stack
 
-| Project | Description |
-|---------|-------------|
-| **Web Development Projects** | Various websites using HTML, CSS, JavaScript, React, and Tailwind |
-| **API Projects** | CRUD and RESTful APIs using Node.js and Express |
-| **Full-Stack Projects** | MERN stack applications connecting frontend and backend |
-| **Other Projects** | Automation scripts, mini-games, and learning projects |
-
-> Visit the live portfolio to see all project demos with screenshots and descriptions.
+* ⚛️ React.js (Vite)
+* 🎨 Tailwind CSS
+* 🧠 Redux Toolkit
+* 🎬 Framer Motion
+* 🔔 React Toastify
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
+## 📂 Project Structure
+
+```
+src/
+│
+├── components/     # Reusable UI components
+├── pages/          # Home, About, Contact
+├── context/        # Global state management
+├── redux/          # Redux store & slices
+├── assets/         # Images & icons
+├── constants.js    # Data (skills, projects, etc.)
+```
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Installation
+
 ```bash
-git clone https://github.com/harshraja45/portfolio.git
-cd portfolio
+git clone https://github.com/harshraja45/my_latest_portfolio.git
+cd my_latest_portfolio
 npm install
 npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+This project is deployed on **Vercel**:
+👉 https://my-latest-portfolio-topaz.vercel.app
+
+---
+
+## 📸 Highlights
+
+* 🏠 Interactive Home Page
+* 🍔 Project Showcase Section
+* 📊 Skills Visualization
+* 📞 Contact Page with animations
+* ℹ️ About section with smooth UI
+
+---
+
+## 💡 Future Improvements
+
+* 🔐 Authentication system
+* 📦 Project filtering & categories
+* 🌙 Dark mode support
+* 💳 Backend integration for dynamic content
+
+---
+
+## 👨‍💻 Author
+
+**Harsh Raja** 🚀
+Full Stack Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
