@@ -42,12 +42,17 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Creative and adaptable Frontend Developer with a strong focus on
+           Creative and adaptable Full Stack Developer with a strong focus on
             crafting intuitive and visually engaging user experiences. While
             specializing in modern frontend technologies, I am actively
-            advancing my backend expertise to deliver end-to-end solutions.
-            Driven by curiosity and a commitment to growth, I aim to bridge
-            design and functionality to build impactful digital products.
+            building and strengthening my backend expertise to deliver complete
+           end-to-end solutions.
+
+         I integrate AI-driven features and smart APIs into web applications
+        to enhance user interaction, automation, and performance. Driven by
+        curiosity and a commitment to continuous learning, I aim to bridge
+        design, functionality, and intelligence to build impactful and
+         future-ready digital products.
           </p>
           {/* Resume Button */}
           <a
